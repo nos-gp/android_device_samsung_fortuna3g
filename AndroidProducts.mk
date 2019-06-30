@@ -3,4 +3,4 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/rr_fortuna3g.mk \
 	$(LOCAL_DIR)/pa_fortuna3g.mk \
 	$(LOCAL_DIR)/lineage_fortuna3g.mk \
-	$(LOCAL_DIR)/cos_fortuna3g.mk
+	$(LOCAL_DIR)/lotus_fortuna3g.mk
